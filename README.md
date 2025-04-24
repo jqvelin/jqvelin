@@ -1,16 +1,17 @@
-## Hi there 👋
+## 💫 Привет, меня зовут Артём!
+Я 18-летний Frontend-разработчик из Москвы.<br/>
+Пишу интересные и полезные проекты :)
 
-<!--
-**jqvelin/jqvelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Основатель [Kite 🪁](https://kite.jqvelin.ru) и [Spark ✨](https://spark.jqvelin.ru)
 
-Here are some ideas to get you started:
+## Мой стек технологий
+🚀 Frontend: 
+- React + Next.js
+- Redux Toolkit / MobX
+- Tailwind CSS / SCSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Backend:
+- Node.js
+- Express.js
+- Prisma /w PostgreSQL
+- SocketIO
