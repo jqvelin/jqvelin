@@ -13,5 +13,5 @@
 ⚙️ Backend:
 - Node.js
 - Express.js
-- Prisma /w PostgreSQL
-- SocketIO
+- Prisma w/ PostgreSQL
+- Socket.IO
